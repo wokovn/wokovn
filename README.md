@@ -3,29 +3,11 @@
 </div>
 
 ## About Me
-
-```cpp
-class Developer {
-private:
-    string name = "wokovn";
-    string role = "C++ Developer";
-    string location = "Vietnam";
-    string university = "HCMUS";
-
-public:
-    vector<string> getSkills() {
-        return {"C++", "Problem Solving", "Algorithm Design"};
-    }
-
-    vector<string> getHobbies() {
-        return {"Gaming", "Coding", "Learning New Tech"};
-    }
-
-    string getCurrentFocus() {
-        return "Exploring Advanced C++ Concepts";
-    }
-};
-```
+- 👋 Hi, I'm **wokovn**
+- 💻 **C++ Developer** passionate about coding
+- 📚 Currently studying at **HCMUS**, Vietnam
+- 🌱 Learning and exploring **Advanced C++ Concepts**
+- ⚡ Love **Problem Solving** and **Algorithm Design**
 
 ## Tech Stack
 
@@ -51,13 +33,10 @@ public:
 🎮 Always ready for a gaming session!
 
 ## Connect & Collaborate
-
-<div align="center">
-
-[![TikTok](https://img.shields.io/badge/-@wokovn-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wokovn)
-[![GitHub](https://img.shields.io/badge/-wokovn-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wokovn)
-
-</div>
+- 🌐 Follow me on [**TikTok**](https://www.tiktok.com/@wokovn)
+- 💬 Let's connect and discuss coding!
+- 🤝 Open for collaborations on C++ projects
+- 📫 How to reach me: [@wokovn](https://github.com/wokovn)
 
 <div align="center">
 
