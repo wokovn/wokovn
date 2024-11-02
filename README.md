@@ -1,46 +1,33 @@
-<h1 align="center">
-
-```
-██╗    ██╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗███╗   ██╗
-██║    ██║██╔═══██╗██║ ██╔╝██╔═══██╗██║   ██║████╗  ██║
-██║ █╗ ██║██║   ██║█████╔╝ ██║   ██║██║   ██║██╔██╗ ██║
-██║███╗██║██║   ██║██╔═██╗ ██║   ██║╚██╗ ██╔╝██║╚██╗██║
-╚███╔███╔╝╚██████╔╝██║  ██╗╚██████╔╝ ╚████╔╝ ██║ ╚████║
- ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═══╝
-```
-
-</h1>
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;C%2B%2B+Developer+%F0%9F%92%BB;HCMUS+Student+%F0%9F%8E%93;Gaming+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" /></a>
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 ```cpp
 class Developer {
 private:
-    string name = "Wokovn";
+    string name = "wokovn";
     string role = "C++ Developer";
     string location = "Vietnam";
     string university = "HCMUS";
-    
+
 public:
     vector<string> getSkills() {
         return {"C++", "Problem Solving", "Algorithm Design"};
     }
-    
+
     vector<string> getHobbies() {
         return {"Gaming", "Coding", "Learning New Tech"};
     }
-    
+
     string getCurrentFocus() {
         return "Exploring Advanced C++ Concepts";
     }
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,22 +37,20 @@ public:
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wokovn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wokovn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7"/>
 </div>
 
-## 🎮 Gaming Life
+## Gaming Life
 
-```diff
-+ FPS Games Enthusiast
-+ PUBG Player
-! Always ready for a gaming session !
-```
+🎯 FPS Games Enthusiast  
+🏆 PUBG Player  
+🎮 Always ready for a gaming session!
 
-## 🤝 Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 
@@ -75,7 +60,7 @@ public:
 </div>
 
 <div align="center">
-  
+
 ```diff
 ! Currently working on exciting C++ projects !
 + Let's collaborate and build something amazing together +
