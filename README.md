@@ -2,8 +2,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;C%2B%2B+Enthusiast+%F0%9F%92%BB;HCMUS+Student+%F0%9F%8E%93;Learning+Systems+Programming+%F0%9F%94%A5;Always+up+for+a+game!+%F0%9F%8E%AE" alt="Typing SVG" /></a>
 </div>
 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480" />
+  <img src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif" width="" />
 </div>
 
 ## About Me
@@ -23,11 +24,11 @@
 
 ## GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wokovn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wokovn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&count_private=true&include_all_commits=true&card_width=495" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wokovn&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%2C%20Y" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wokovn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wokovn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&card_width=495" />
 </div>
 
 ## Let's Connect
@@ -51,5 +52,5 @@
 ---
 
 <div align="center">
-  <img src="https://c.tenor.com/htR6RQybUgEAAAAd/tenor.gif" width="720" />
+  <img src="https://c.tenor.com/htR6RQybUgEAAAAd/tenor.gif" width="720" height = "300"  />
 </div>
