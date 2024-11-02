@@ -2,6 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;C%2B%2B+Enthusiast+%F0%9F%92%BB;HCMUS+Student+%F0%9F%8E%93;Learning+Systems+Programming+%F0%9F%94%A5;Always+up+for+a+game!+%F0%9F%8E%AE" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480" />
+</div>
+
 ## About Me
 👋 Hello, I'm **wokovn**, a C++ enthusiast currently studying at HCMUS, Vietnam. I'm passionate about diving into systems programming and exploring the intricacies of low-level development. When I'm not coding, you'll likely find me immersed in a gaming session!
 
@@ -38,4 +42,14 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wokovn&color=00F7F7&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" />
 </div>
