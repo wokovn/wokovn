@@ -51,5 +51,5 @@
 ---
 
 <div align="center">
-  <img src="https://c.tenor.com/htR6RQybUgEAAAAd/tenor.gif" width="480" />
+  <img src="https://c.tenor.com/htR6RQybUgEAAAAd/tenor.gif" width="720" />
 </div>
