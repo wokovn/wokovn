@@ -51,5 +51,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" />
+  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://c.tenor.com/htR6RQybUgEAAAAd/tenor.gif)" width="480" />
 </div>
