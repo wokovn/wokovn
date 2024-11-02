@@ -3,17 +3,24 @@
 </div>
 
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif" width="720" />
-</div>
 
-## About Me
-👋 Hello, I'm **wokovn**, a C++ enthusiast currently studying at HCMUS, Vietnam. I'm passionate about diving into systems programming and exploring the intricacies of low-level development. When I'm not coding, you'll likely find me immersed in a gaming session!
+## About Me <div align="right">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</div>
+👋 Hello, I'm **wokovn**, a C++ enthusiast currently studying at HCMUS, Vietnam. I'm passionate about diving into systems programming and exploring the intricacies  of low-level development. When I'm not coding, you'll likely find me immersed in a gaming session! 
+
+<div align="center">
+  <img src="https://gifdb.com/images/high/pixel-art-white-cat-amvdl2bb25ew6vt0.gif" width="144" />
+</div>
 
 ## I'm Learning & Exploring
 * **C++:** Deepening my knowledge of advanced C++ concepts and modern C++ best practices
 * **Systems Programming:** Focusing on operating systems principles, memory management, and low-level I/O
 * **Algorithm Design & Data Structures:** Honing my problem-solving skills and exploring efficient algorithms
+
+<div align="center">
+  <img src="https://c.tenor.com/hhi3qDuIuSwAAAAd/tenor.gif" width="144" />
+</div>
 
 ## Tech Stack & Tools
 <div align="center">
@@ -45,9 +52,7 @@
   <img src="https://komarev.com/ghpvc/?username=wokovn&color=00F7F7&style=flat-square" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
-</div>
+
 
 ---
 
