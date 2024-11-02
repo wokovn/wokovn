@@ -1,24 +1,89 @@
-<h1 align="center" style="color: #ff6347;">Hello, I'm Wokovn! 👋</h1>
+<h1 align="center">
+  
+```diff
+                 ██╗    ██╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗███╗   ██╗
+                 ██║    ██║██╔═══██╗██║ ██╔╝██╔═══██╗██║   ██║████╗  ██║
+                 ██║ █╗ ██║██║   ██║█████╔╝ ██║   ██║██║   ██║██╔██╗ ██║
+                 ██║███╗██║██║   ██║██╔═██╗ ██║   ██║╚██╗ ██╔╝██║╚██╗██║
+                 ╚███╔███╔╝╚██████╔╝██║  ██╗╚██████╔╝ ╚████╔╝ ██║ ╚████║
+                  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═══╝
+```
 
-<p align="center" style="font-size: 1.2em; color: #555;">Welcome to my GitHub profile! I’m a passionate <strong style="color: #4682b4;">C++</strong> developer currently diving deep into the world of programming.</p>
+</h1>
 
-<h2 style="color: #4682b4;">🌟 About Me</h2>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;C%2B%2B+Developer+%F0%9F%92%BB;HCMUS+Student+%F0%9F%8E%93;Gaming+Enthusiast+%F0%9F%8E%AE)
 
-<p style="font-size: 1em; color: #333;">I'm a student at <strong style="color: #4682b4;">HCMUS</strong> in Vietnam, pursuing my dreams in <strong style="color: #4682b4;">Information Technology</strong>. I thrive on challenges and love creating efficient and elegant code.</p>
+</div>
 
-<h2 style="color: #4682b4;">💻 Technologies & Tools</h2>
-<ul>
-  <li style="color: #333;"><strong>Languages:</strong> C++</li>
-  <li style="color: #333;"><strong>Tools:</strong> [Insert any tools you use, like Git, Visual Studio, etc.]</li>
-</ul>
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/wokovn?style=for-the-badge&logo=github&color=00F7F7)](https://github.com/wokovn)
+  [![TikTok](https://img.shields.io/badge/TikTok-@wokovn-00F7F7?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wokovn)
+  
+</div>
 
-<h2 style="color: #4682b4;">🎮 Hobbies & Interests</h2>
-<p style="color: #333;">When I’m not coding, you can find me immersed in the thrilling world of video games. 🎮 My favorites include FPS games and, of course, PUBG!</p>
+## 🌟 About Me
 
-<h2 style="color: #4682b4;">🌐 Connect with Me</h2>
-<p style="color: #333;">Let's connect! You can find me on TikTok: <a href="https://www.tiktok.com/@wokovn" style="color: #ff6347;">@wokovn</a>.</p>
+```cpp
+class Developer {
+public:
+    string name = "Wokovn";
+    string role = "C++ Developer";
+    string school = "HCMUS";
+    string location = "Vietnam";
+    vector<string> hobbies = {"Coding", "Gaming", "Problem Solving"};
+};
+```
 
-<h2 style="color: #4682b4;">💬 Fun Fact</h2>
-<p style="color: #333;">I love experimenting with new programming challenges, and I'm always on the lookout for cool projects to collaborate on!</p>
+## 💻 Tech Stack
+<div align="center">
+  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+</div>
 
-<p align="center" style="color: #555;">Feel free to reach out if you want to chat or collaborate. Let's build something amazing together! ✨</p>
+## 📊 GitHub Stats
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wokovn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wokovn&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7)
+  
+</div>
+
+## 🎮 Gaming Life
+```
+🎯 FPS Enthusiast
+🏆 PUBG Player
+🎮 Always up for gaming sessions!
+```
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  
+  [![TikTok Follow](https://img.shields.io/badge/Follow_@wokovn-FF0000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wokovn)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ```diff
+  + Currently working on exciting C++ projects! +
+  ! Let's collaborate and build something amazing together! !
+  ```
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=wokovn&color=00F7F7&style=flat-square)
+  
+</div>
+
+<!--
+Fun ASCII art dividers for sections
+////////////////////////////////////////////////////////////////////////////////////////////////
+-->
