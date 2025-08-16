@@ -7,7 +7,7 @@
 ## About Me <div align="right">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </div>
-👋 Hello, I'm *wokovn* , a C++ enthusiast currently studying at HCMUS, Vietnam. I'm passionate about diving into systems programming and exploring the intricacies  of low-level development. When I'm not coding, you'll likely find me immersed in a gaming session! 
+👋 Hello, I'm __wokovn__ , a C++ enthusiast currently studying at HCMUS, Vietnam. I'm passionate about diving into systems programming and exploring the intricacies  of low-level development. When I'm not coding, you'll likely find me immersed in a gaming session! 
 
 <div align="center">
   <img src="https://gifdb.com/images/high/pixel-art-white-cat-amvdl2bb25ew6vt0.gif" width="144" />
