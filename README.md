@@ -33,8 +33,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/react-original.svg" width="40" height="40" alt="react" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/nodejs-original.svg" width="40" height="40" alt="Nodejs" />
 
 </div>
 
