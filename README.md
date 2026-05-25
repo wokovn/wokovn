@@ -1,23 +1,22 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;C%2B%2B+Enthusiast+%F0%9F%92%BB;HCMUS+Student+%F0%9F%8E%93;Learning+Systems+Programming+%F0%9F%94%A5;Always+up+for+a+game!+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Software+Engineer+Intern+%F0%9F%92%BB;Full-Stack+Web+Developer+%F0%9F%9🚀;HCMUS+Student+%F0%9F%8E%93;Building+Scalable+Systems+%F0%9F%94%A5" alt="Typing SVG" /></a>
 </div>
-
-
 
 ## About Me <div align="right">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </div>
-👋 Hello, I'm __wokovn__ , a C++ enthusiast currently studying at HCMUS, Vietnam. I'm passionate about diving into software programming and exploring the game development. When I'm not coding, you'll likely find me immersed in a gaming session! 
+👋 Hello, I'm __wokovn__ (Nguyễn Anh Khoa), a Software Engineer Intern / Fresher currently studying Information Technology at HCMUS, Vietnam. 
+
+I am deeply passionate about building scalable full-stack web applications, designing event-driven architectures, and optimizing database systems. When I'm not busy tweaking Docker containers, fine-tuning Kubernetes pods, or structuring complex queries, you can definitely find me enjoying a good gaming session! 🎮
 
 <div align="center">
   <img src="https://gifdb.com/images/high/pixel-art-white-cat-amvdl2bb25ew6vt0.gif" width="144" />
 </div>
 
 ## I'm Learning & Exploring
-* **C++:** Deepening my knowledge of advanced C++ concepts and modern C++ best practices
-* **JS**: The web stuff
-*  **Unity**: Road to become rich
-*  **Blender**: Trying to be on TV
+* **Backend & System Architecture:** Architecting high-availability systems, asynchronous background job processing, and smart caching layers using Redis and BullMQ.
+* **DevOps & Cloud Infrastructure:** Containerizing applications, horizontal autoscaling, and managing distributed environments with Docker and Kubernetes.
+* **Generative AI & Audio Synthesis:** Integrating AI SDKs with Prompt Engineering and deploying custom machine learning models for speech processing.
 
 <div align="center">
   <img src="https://c.tenor.com/hhi3qDuIuSwAAAAd/tenor.gif" width="144" />
@@ -25,24 +24,25 @@
 
 ## Tech Stack & Tools
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </div>
 
 ## GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wokovn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&count_private=true&include_all_commits=true&card_width=495" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wokovn&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%2C%20Y" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wokovn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&card_width=495" />
 </div>
 
 ## Let's Connect
@@ -50,16 +50,17 @@
   <a href="https://github.com/wokovn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.tiktok.com/@wokovn">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  <a href="https://linkedin.com/in/ng-anh-khoa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anhkhoa.nguyen4405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wokovn&color=00F7F7&style=flat-square" alt="Profile Views" />
 </div>
-
-
 
 ---
 
